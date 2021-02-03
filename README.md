@@ -1,4 +1,4 @@
-# Custom ICE Materials 2021
+# Custom ICE Materials 2022
 
 [Docs](https://ice.work/docs/materials/about).
 
