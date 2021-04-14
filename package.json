@@ -2,7 +2,7 @@
   "name": "kid-material",
   "version": "0.1.0",
   "description": "This is a ice material project",
-  "author": "",
+  "author": "pf",
   "scripts": {
     "deploy": "npm run generate && npm run sync",
     "generate": "iceworks generate",
